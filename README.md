@@ -11,3 +11,10 @@ Integrantes:
 Guilherme Gutierre
 Karoline
 Gustavo
+
+
+# Download
+- Para fazer o download deste arquivo abra o terminal (importante ter o git instalado na maquina);
+- crie uma pasta em seu computador e abra o terminal dentro dela;
+- Rode o seguinte comando:
+git clone https://github.com/GGutiOS/RiseOfLylla.git
